@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12386, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Keys:
+  - __PanelContainer__rootVisualContainer__41ea60e48f6e51549bbb157e39e25dab__MaterialGraphView__UnityEditor.Experimental.UIElements.GraphView.GraphView+PersistedViewTransform
+  - __PanelContainer__rootVisualContainer__41ea60e48f6e51549bbb157e39e25dab__MaterialGraphView__UnityEditor.Experimental.UIElements.GraphView.GraphView+PersistedSelection
+  - __PanelContainer__rootVisualContainer__9b93b1b2edbbbdd4fb0b0299f2176673__MaterialGraphView__UnityEditor.Experimental.UIElements.GraphView.GraphView+PersistedViewTransform
+  - __PanelContainer__rootVisualContainer__9b93b1b2edbbbdd4fb0b0299f2176673__MaterialGraphView__UnityEditor.Experimental.UIElements.GraphView.GraphView+PersistedSelection
+  - __PanelContainer__rootVisualContainer__7528b483429435945960f49ab7b399e1__MaterialGraphView__UnityEditor.Experimental.UIElements.GraphView.GraphView+PersistedViewTransform
+  - __PanelContainer__rootVisualContainer__7528b483429435945960f49ab7b399e1__MaterialGraphView__UnityEditor.Experimental.UIElements.GraphView.GraphView+PersistedSelection
+  - __PanelContainer__rootVisualContainer__0e4090c51cfd5ec41bed96f81b629944__MaterialGraphView__UnityEditor.Experimental.UIElements.GraphView.GraphView+PersistedViewTransform
+  - __PanelContainer__rootVisualContainer__0e4090c51cfd5ec41bed96f81b629944__MaterialGraphView__UnityEditor.Experimental.UIElements.GraphView.GraphView+PersistedSelection
+  - __PanelContainer__rootVisualContainer__5dcfb64c6248d03419f8c4b2d085c05f__MaterialGraphView__UnityEditor.Experimental.UIElements.GraphView.GraphView+PersistedViewTransform
+  - __PanelContainer__rootVisualContainer__5dcfb64c6248d03419f8c4b2d085c05f__MaterialGraphView__UnityEditor.Experimental.UIElements.GraphView.GraphView+PersistedSelection
+  - __PanelContainer__rootVisualContainer__a1379f92a5e91f847b9e3486e4d95bbc__MaterialGraphView__UnityEditor.Experimental.UIElements.GraphView.GraphView+PersistedViewTransform
+  - __PanelContainer__rootVisualContainer__a1379f92a5e91f847b9e3486e4d95bbc__MaterialGraphView__UnityEditor.Experimental.UIElements.GraphView.GraphView+PersistedSelection
+  - __PanelContainer__rootVisualContainer__bfe56567a1917ef4a970ad12a50bdbc1__MaterialGraphView__UnityEditor.Experimental.UIElements.GraphView.GraphView+PersistedViewTransform
+  - __PanelContainer__rootVisualContainer__bfe56567a1917ef4a970ad12a50bdbc1__MaterialGraphView__UnityEditor.Experimental.UIElements.GraphView.GraphView+PersistedSelection
+  m_Values:
+  - '{}'
+  - '{}'
+  - '{}'
+  - '{}'
+  - '{}'
+  - '{}'
+  - '{}'
+  - '{}'
+  - '{}'
+  - '{}'
+  - '{}'
+  - '{}'
+  - '{"position":{"x":0.0,"y":0.0,"z":0.0},"scale":{"x":1.0,"y":1.0,"z":1.0}}'
+  - '{"m_Version":0,"m_SelectedElements":[]}'
